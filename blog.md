@@ -1,3 +1,5 @@
+So yesterday devin texted me and was like ay yo imma prolly be late to julies class so let her know that imma be a little late. So i was like aight ill go up to her and be like "Hey julie, wait for DEVINci..." mad jokes
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur quis odio eu leo tempus suscipit. Maecenas volutpat velit quis eros vulputate vulputate. Fusce blandit libero enim, a molestie nunc luctus a. Morbi nibh ex, facilisis non ante sed, scelerisque tempor lorem. Nullam molestie a velit vitae malesuada. Vestibulum posuere laoreet nisi, at efficitur justo tristique a. Sed luctus quam nisl, et euismod sem facilisis id.
 
 Duis leo nisi, finibus volutpat neque in, egestas rhoncus elit. Morbi pulvinar nisi ac sem mollis posuere. Pellentesque non egestas dolor. Praesent rutrum eu elit a pharetra. Duis vehicula purus id tristique vehicula. Praesent ac metus ac lectus ornare sollicitudin et nec orci. Quisque ac lectus tincidunt dolor viverra consequat at nec est.
