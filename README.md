@@ -1,3 +1,11 @@
-#Hello World
+# IASC 2P02 | Hashim Khan
 
-This is the read me file for my IASC 2P02 web portfolio 
+## About Me 
+
+I am me. Me is I. This is my Ted talk. k bye imma go to the woods and wait for devinchi
+
+![](zimages/woods.jfif)
+
+## Blog Post
+
+This da first sentence of the blog post boi
