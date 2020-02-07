@@ -4,7 +4,7 @@
 
 I am me. Me is I. This is my Ted talk. k bye imma go to the woods and wait for devinchi
 
-![](zimages/woods.jfif)
+![](images/woods.jfif)
 
 ## Blog Post
 
