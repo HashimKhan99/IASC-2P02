@@ -9,4 +9,4 @@ I am me. Me is I. This is my Ted talk. k bye imma go to the woods and wait for d
 ## Blog Post
 
 This da first sentence of the blog post boi. [continue reading...](blog)
-testint testing [open dis bitch...](bladubloop)
+testint testing [open dis bitch...](images/woods.jfif)
