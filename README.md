@@ -4,7 +4,7 @@
 
 Hi, my name is Hashim Khan and I am a second year Interactive Arts and Science student at Brock University. I am passionate about music, video games, sports and sound/video design!
 
-![](images/woods.jfif)
+![](images/HashPic.PNG)
 
 ## Blog Post
 
