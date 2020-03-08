@@ -1,12 +1,12 @@
-# IASC 2P02 | Hashim Khan
+# Hashim Khan
 
 ## About Me 
 
-I am me. Me is I. This is my Ted talk. k bye imma go to the woods and wait for devinchi
+Hi, my name is Hashim Khan and I am a second year Interactive Arts and Science student at Brock University. I am passionate about music, video games, sports and sound/video design!
 
 ![](images/woods.jfif)
 
 ## Blog Post
 
 This da first sentence of the blog post boi. [continue reading...](blog)
-testint testing [open dis bitch...](images/woods.jfif)
+
