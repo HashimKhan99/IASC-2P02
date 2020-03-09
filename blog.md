@@ -28,7 +28,7 @@ The graph itself is just simple spikes that represent the change in the number o
 
 Recent studies have also proven that multimodal learning can be more engaging and can aid the user in learning more, or better understanding the concept rather than just regular text. (Lawless. 2019). Other digital humanists have also tried to side with Drucker and Moretti and emphasize the points they make and the importance of visual representation when it comes to displaying information. Janicke et. al in their article “TRAViz: A Visualization for Variant Graphs” argue similar points. They stress the importance of graphical visualization.
 
-	“Andrews stressed the importance for humanists to be able to interact with a Variant Graph and to modify its structure (Andrews and Van Zundert, 2013b). TRAViz responds to this requirement by providing a wide range of interaction possibilities, whereby users can tweak the visualization in order to suit their particular needs.” - (Janicke et. al. 2015)
+“Andrews stressed the importance for humanists to be able to interact with a Variant Graph and to modify its structure (Andrews and Van Zundert, 2013b). TRAViz responds to this requirement by providing a wide range of interaction possibilities, whereby users can tweak the visualization in order to suit their particular needs.” - (Janicke et. al. 2015)
 
 Above is a quote from the article which basically shows how they are trying to express the importance of visual representation and how making it interactive can improve the results a user can get out of it.
 
