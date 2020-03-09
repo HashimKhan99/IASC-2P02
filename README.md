@@ -8,5 +8,5 @@ Hi, my name is Hashim Khan and I am a second year Interactive Arts and Science s
 
 ## Blog Post
 
-This da first sentence of the blog post boi. [continue reading...](blog)
+Drucker and Moretti, in their writings are trying to prove that visual expression is necessary when it comes to digital humanities [continue reading...](blog)
 
