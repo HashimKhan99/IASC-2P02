@@ -16,4 +16,12 @@ The visualization is pretty simple to understand. It has taken Drucker’s writi
 
 “My argument is a polemical call to humanists to think differently about the graphical expressions in use in digital environments. A fundamental prejudice, I suggest, is introduced by conceiving of data within any humanistic interpretative frame on a conventional, uncritical, statistical basis.” - (Drucker. 2011)
 
+Moretti makes a very similar argument as Drucker’s. Moretti, in his book “Graphs, Maps, Trees” uses graphs to represent information about novels and novel production. The point that Moretti is trying to make is that using visual representations like graphs, can help better understand information by looking at it from this new, different perspective. Something very similar to what Drucker said. 
+
+Moretti starts by using a graph to illustrate the production of new novels per year, by a 5-year average, in Britain. The graph can be seen below:
+
+![](images/MorettiGraph.PNG)
+
+The graph itself is just simple spikes that represent the change in the number of new novels produced as the years go. However, Moretti then uses similar graphs to analyze the production of novels in other countries to see if there are any correlations. Moretti then also uses graphs to represent economic information in Britain over the same period of time. At the end, Moretti uses the data from all the graphs and is able to draw links and correlations between and can better understand the reasoning behind the spikes in the original graph. Moretti does this to prove that using graphs as visual aids when representing information, are necessary because they allow you to look at the data from a different view, a view that simple text representation might not be able to portray, and then, hence, leads to a better understanding of the information.
+
 [Click here](index.html) to go back
