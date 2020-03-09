@@ -1,4 +1,4 @@
-##Blog Post
+## Blog Post
 
 Both Moretti and Drucker argue that visual forms (e.g. graphs, maps, etc.) can and should be used to represent cultural phenomena (e.g. the experience of temporality, rises and falls in genre, etc.). Moving between written and visual mediums of expression offers a model for the next generation of digital humanities scholarship, where readers are asked to think critically across both textual and graphical modes. As such, digital humanities scholarship should increasingly create multimodal scholarship where readers interpret both the text and any other media (such as graphs, images, audio, and so on). Creating scholarship that asks readers to interpret across multiple modes will distinguish digital humanities scholarship from scholarship in the sciences.
 
@@ -25,5 +25,24 @@ Moretti starts by using a graph to illustrate the production of new novels per y
 ![](images/MorettiGraph.PNG)
 
 The graph itself is just simple spikes that represent the change in the number of new novels produced as the years go. However, Moretti then uses similar graphs to analyze the production of novels in other countries to see if there are any correlations. Moretti then also uses graphs to represent economic information in Britain over the same period of time. At the end, Moretti uses the data from all the graphs and is able to draw links and correlations between and can better understand the reasoning behind the spikes in the original graph. Moretti does this to prove that using graphs as visual aids when representing information, are necessary because they allow you to look at the data from a different view, a view that simple text representation might not be able to portray, and then, hence, leads to a better understanding of the information.
+
+Recent studies have also proven that multimodal learning can be more engaging and can aid the user in learning more, or better understanding the concept rather than just regular text. (Lawless. 2019). Other digital humanists have also tried to side with Drucker and Moretti and emphasize the points they make and the importance of visual representation when it comes to displaying information. Janicke et. al in their article “TRAViz: A Visualization for Variant Graphs” argue similar points. They stress the importance of graphical visualization.
+
+	“Andrews stressed the importance for humanists to be able to interact with a Variant Graph and to modify its structure (Andrews and Van Zundert, 2013b). TRAViz responds to this requirement by providing a wide range of interaction possibilities, whereby users can tweak the visualization in order to suit their particular needs.” - (Janicke et. al. 2015)
+
+Above is a quote from the article which basically shows how they are trying to express the importance of visual representation and how making it interactive can improve the results a user can get out of it.
+
+In conclusion, I agree with Drucker and Moretti and believe that digital humanities scholarship should increase multimodal representation of information, because based on the research that Drucker and Moretti have done, they have proved that it provides a new perspective to look at information from and that is necessary in the digital humanities. Information needs to be viewed subjectively and from different views in order to interpret it properly and truly understand it and it’s meaning.
+
+## Works Cited
+
+Stefan Jänicke, Annette Geßner, Greta Franzini, Melissa Terras, Simon Mahony, Gerik Scheuermann, TRAViz: A Visualization for Variant Graphs, Digital Scholarship in the Humanities, Volume 30, Issue suppl_1, December 2015, Pages i83–i99, https://doi.org/10.1093/llc/fqv049
+
+Lawless, Caroline. Multimodal Learning: Engaging Your Learner’s Senses. October, 2019.
+https://www.learnupon.com/blog/multimodal-learning/
+
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
+
+Moretti, Franco. Graphs, Maps, Trees: Abstract Models for a Literary History. Verso, 2007.
 
 [Click here](index.html) to go back
